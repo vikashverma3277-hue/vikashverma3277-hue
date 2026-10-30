@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**vikashverma3277-hue/vikashverma3277-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Vikash Verma 👋
 
-Here are some ideas to get you started:
+### 💻 Frontend Developer | BCA Final-Year Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a BCA final-year student passionate about web development and creating responsive websites.
+
+### 🚀 About Me
+- 🎓 Pursuing BCA from Dr. B. R. Ambedkar University, Agra
+- 💻 Interested in Frontend Development
+- 🌱 Currently learning JavaScript
+- 🎯 Working towards becoming a professional Web Developer
+
+### 🛠️ My Skills
+
+- HTML5
+- CSS3
+- JavaScript
+
+### 📚 Currently Learning
+- JavaScript
+- Responsive Web Design
+- Git & GitHub
+
+### 🎯 My Goals
+- Build creative and responsive websites
+- Create real-world projects
+- Get a Web Development Internship
+
+### 🤝 Connect With Me
+- GitHub: https://github.com/vikashverma3277-hue
+
+---
+⭐ Thanks for visiting my profile!
